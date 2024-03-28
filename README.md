@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Karol and I'm a Master's Computer Science student at TU Delft in the AI track.
+
+- I enjoy experimenting with machine learning models and trying to explain their behaviors 🧪
+- Working on my Master's thesis as a part of the [Multimedia Computing](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing) team at TU Delft 📜
+- Part-time teaching assistant 🍎
+- Currently learning Julia 🟣
+
 <!--
 **drobiu/drobiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
